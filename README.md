@@ -16,7 +16,7 @@ FrontEnd Developer 👨🏻‍💻
 ###
 
 :computer: **Web Developer**  
-:pencil: **Creating digital experiences with JavaScript, Git, and GitHub**  
+:pencil: **Creating digital experiences**  
 :eyeglasses: **Passionate about technology, finance, and commerce**  
 :thought_balloon: **Lover of philosophy and personal growth**  
 :books: **Autodidact, guided by the universal energy on the journey of knowledge**  
