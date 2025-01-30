@@ -13,7 +13,7 @@ FrontEnd Developer 👨🏻‍💻
   <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
 
-
+###
 
 :computer: **Web Developer**  
 :pencil: **Creating digital experiences with JavaScript, Git, and GitHub**  
@@ -21,5 +21,6 @@ FrontEnd Developer 👨🏻‍💻
 :thought_balloon: **Lover of philosophy and personal growth**  
 :books: **Autodidact, guided by the universal energy on the journey of knowledge**  
 
+###
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/julianpedrazajf/julianpedrazajf)
