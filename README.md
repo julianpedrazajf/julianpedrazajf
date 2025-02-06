@@ -25,7 +25,7 @@ FrontEnd Developer 👨🏻‍💻
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/julianpedrazajf/julianpedrazajf)
 
-### :zap: Recent Activity
+<!-- ### :zap: Recent Activity-->
 <!-- START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
